@@ -4,7 +4,7 @@ The Fortuna-game needs a good algorithm to create a Fortuna game for their slot 
 So to test if the game works properly, we will write code for it.
 
 The game uses the currency pix.
-#The task:
+# The task:
 • The player starts with 500 pix
 • Game round:
 o The player bets pix (at least 50 pix)
