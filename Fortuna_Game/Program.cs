@@ -6,8 +6,6 @@ namespace Fortuna_Game
     {
         static void Main(string[] args)
         {
-            {
-
             int balance = 500;
             int bet = 0;
             string input;
