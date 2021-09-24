@@ -6,7 +6,7 @@ So to test if the game works properly, we will write code for it.
 The game uses the currency pix.
 # The task
 * The player starts with 500 pix
-* Game round:
+- Game round:
 * The player bets pix (at least 50 pix)
 * The player chooses a lucky number (1-6)
 * Three dice are rolled
