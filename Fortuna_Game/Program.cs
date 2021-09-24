@@ -100,13 +100,13 @@ namespace Fortuna_Game
                 return;
             }
             Console.WriteLine("Will you play again?");
-            string play = Console.ReadLine();
+            string playAgain = Console.ReadLine();
 
-            if (play == "n")
+            if (playAgain == "n")
             {
                 Console.WriteLine("Thank you for playing!");            
             }
-            else if (play == "y")
+            else if (playAgain == "y")
             {
                 Console.Clear();
             }
