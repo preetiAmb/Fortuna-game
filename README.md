@@ -19,3 +19,6 @@ The game uses the currency pix.
 * The player must not cheat and bet negative values
 * If the player's account is less than 50 pix, the game ends
 * After one round, the player can see his balance and choose whether he wants to run another round
+
+# I have taken the inspiration from the following example:-
+https://github.com/marcusjobb/net21/blob/main/OOP%20Grund/Inl%C3%A4mningar/Inl%C3%A4mning1/Marcus%20Medina/Fortuna/Program.cs
